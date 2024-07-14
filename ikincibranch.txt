@@ -1,1 +1,4 @@
 ikincibranch denemesi
+
+1. Yeni bir branch oluşturup, oluşturduğunuz branch'te kodlar üzerinde ya da README.md dosyası üzerinde değişiklikler yapınız.
+2. Yaptığınız değişikleri Pull Request(PR) açarak main branch'e birleştiriniz. Bunu yaparken değiştirilen kısımları PR üzerinde inceleyiniz.
